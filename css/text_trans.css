@@ -11,8 +11,9 @@ h1{
 }
 /*Sentence*/
 .sentence{
-     color: rgb(102, 102, 102);
-     font-size: 50px;
+     color: rgb(41, 41, 41);
+	 font-size: 50px;
+	 text-shadow: 2px 2px 4px #000000;
 }
 
 
@@ -25,7 +26,7 @@ h1{
 	animation: topToBottom 12.5s linear infinite 0s;
 	-ms-animation: topToBottom 12.5s linear infinite 0s;
 	-webkit-animation: topToBottom 12.5s linear infinite 0s;
-	color: #00abe9;
+	color: #029cd4;
 	opacity: 0;
 	overflow: hidden;
 	position: absolute;
