@@ -1,0 +1,7 @@
+- name: Microsoft Azure
+  percentage: 95
+  color: info
+
+- name: Web Designing
+  percentage: 90
+  color: danger
