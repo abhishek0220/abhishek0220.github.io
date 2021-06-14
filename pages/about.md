@@ -8,7 +8,7 @@ weight: 1
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I`m a pre-final year Student from the **Indian Institute of Technology, Jammu**. Coordinator at Coding Club IIT Jammu and Beta Microsoft Learn Student Ambassador. Massive interest in programming and problem-solving. Most of the time i can be seen experimenting things. Currently exploring **Cloud Computing** if you have some awesome resources let me know 😉.   
+I`m a pre-final year Student from the **Indian Institute of Technology, Jammu**. SDE Intern at **Innovaccer**. Massive interest in programming and problem-solving. Most of the time i can be seen experimenting things. Currently exploring **Cloud Computing** if you have some awesome resources let me know 😉.   
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
